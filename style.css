@@ -1,0 +1,20 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#login{
+    margin-top: 100px;
+    margin: auto;
+    width: 35%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -34%);
+    padding: 10px;
+    margin-bottom: 30px;
+}
+.btn-primary a{
+    text-decoration: none;
+    color: white;
+}
